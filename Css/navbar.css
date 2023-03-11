@@ -40,6 +40,15 @@
 }
 .navbar-mid span {
   font-size: 1.2rem;
+  text-align: center;
+  padding: 0px 15px 0px 15px;
+}
+.navbar-mid span:hover {
+  padding: 0px 15px 0px 15px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: aliceblue;
+  color: rgb(0, 0, 105);
 }
 .navbar-search {
   width: 250px;
