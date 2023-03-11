@@ -13,7 +13,11 @@
   }
   .navbar-search input {
     width: 40vw;
-    height: 30px;
+    height: 25px;
+  }
+  .navbar-search img {
+    width: 20px;
+    height: 20px;
   }
   #hamMenu {
     height: 100%;
